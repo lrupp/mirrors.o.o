@@ -1,0 +1,73 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+    <base href="http://static.opensuse.org/" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>%(title)s</title>
+    <link type="text/css" rel="stylesheet" href="https://mirrors.opensuse.org/css/mirrorbrain.css" />
+    <link href="/favicon.ico" rel="shortcut icon" />
+    <meta http-equiv="Language" content="en" />
+    <meta name="description" content="%(title)s" />
+    <meta name="keywords" content="openSUSE download metalink redirector mirror mirrors" />
+    <meta name="author" content="openSUSE project" />
+    <meta name="robots" content="index, nofollow" />
+  </head>
+  <body>
+  <h1>%(title)s</h1>
+
+  <p>
+  This page lists mirror servers where you can download openSUSE. The below
+  comprehensive table shows what you will find on which mirror. It is
+  <em>not a static</em> and outdated list &mdash; it is generated every 30
+  minutes and reflects the last state which was seen by probing. Thus it should
+  be highly accurate regarding content and availability of mirrors. This page was created on
+  %(utc)s.
+  </p>
+
+  <p>
+  The master download server, 
+  <a href="http://download.opensuse.org/">download.opensuse.org</a>,
+  automatically redirects you to a server near you. The information on this
+  page is generated directly off the database used by the master download
+  server. So under normal circumstances, there should be no need to use mirrors
+  directly, and look at this table for that purpose.  If you <em>do</em> see
+  the need, there might be something wrong and it would be appreciated if you
+  notify the admins about it, so it can be fixed for the benefit of yourself,
+  and possibly many other users. 
+  </p>
+
+  <p>
+  For downloading CD or DVD images, there is
+  <a href="http://software.opensuse.org/">software.opensuse.org</a> 
+  to help with choosing the correct download. It also uses the below mirrors.
+  <a href="http://en.opensuse.org/Portal:Distribution">Additional information</a>
+  about downloading openSUSE can be found in the openSUSE wiki.
+  </p>
+
+  <p>
+  The best (and fastest!) way to download CD or DVD images is with a Metalink client.
+  Read this <a
+  href="http://lizards.opensuse.org/2008/12/16/best-way-to-download-opensuse/">blog
+  post explaining the "how" and "why"</a>, and the <a href="http://en.opensuse.org/SDB:Metalink">wiki page about Metalinks.</a>.
+  </p>
+
+  <p>
+  There are separate lists for openSUSE downloads. The following lists are available:
+  </p>
+  <ul>
+    <li><a href="http://mirrors.opensuse.org/list/tumbleweed.html">openSUSE Tumbleweed</a></li>
+    <li><a href="http://mirrors.opensuse.org/list/42.3.html">openSUSE Leap 42.3</a></li>
+    <li><a href="http://mirrors.opensuse.org/list/42.2.html">openSUSE Leap 42.2</a></li>
+    <li><a href="http://mirrors.opensuse.org/list/42.1.html">openSUSE Leap 42.1</a></li>
+    <li><a href="http://mirrors.opensuse.org/list/repositories.html">openSUSE Build Service</a></li>
+    <li><a href="http://mirrors.opensuse.org/list/ports.html">openSUSE Ports</a></li>
+    <li><a href="http://mirrors.opensuse.org/list/all.html">All products (large table)</a></li>
+  </ul>
+
+  <p>
+  Please send suggestions and corrections by mail to admin at opensuse org. If you like to become a public mirror, please 
+  read <a href="http://en.opensuse.org/openSUSE:Mirror_infrastructure">the instructions on our wiki page</a> and send us 
+  a mail or join us in our IRC channel <a href="irc://irc.opensuse.org/#opensuse-admin">#opensuse-admin</a> on irc.opensuse.org.
+  </p>
+
