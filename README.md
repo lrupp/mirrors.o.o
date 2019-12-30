@@ -1,2 +1,2 @@
 # mirrors.o.o
-Content of the mirrors.opensuse.org pages
+Content of the https://mirrors.opensuse.org/ pages.
