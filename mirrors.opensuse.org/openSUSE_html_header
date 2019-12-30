@@ -32,8 +32,8 @@
   page is generated directly off the database used by the master download
   server. So under normal circumstances, there should be no need to use mirrors
   directly, and look at this table for that purpose.  If you <em>do</em> see
-  the need, there might be something wrong and it would be appreciated if you
-  notify the admins about it, so it can be fixed for the benefit of yourself,
+  the need, there <a href="https://status.opensuse.org/">might be something wrong</a> and it would be appreciated if you
+  <a href="mailto:admin@opensuse.org">notify the admins</a> about it, so it can be fixed for the benefit of yourself,
   and possibly many other users. 
   </p>
 
@@ -57,9 +57,9 @@
   </p>
   <ul>
     <li><a href="http://mirrors.opensuse.org/list/tumbleweed.html">openSUSE Tumbleweed</a></li>
-    <li><a href="http://mirrors.opensuse.org/list/42.3.html">openSUSE Leap 42.3</a></li>
-    <li><a href="http://mirrors.opensuse.org/list/42.2.html">openSUSE Leap 42.2</a></li>
-    <li><a href="http://mirrors.opensuse.org/list/42.1.html">openSUSE Leap 42.1</a></li>
+    <li><a href="http://mirrors.opensuse.org/list/15.2.html">openSUSE Leap 15.2</a></li>
+    <li><a href="http://mirrors.opensuse.org/list/15.1.html">openSUSE Leap 15.1</a></li>
+    <li><a href="http://mirrors.opensuse.org/list/15.0.html">openSUSE Leap 15.0</a></li>
     <li><a href="http://mirrors.opensuse.org/list/repositories.html">openSUSE Build Service</a></li>
     <li><a href="http://mirrors.opensuse.org/list/ports.html">openSUSE Ports</a></li>
     <li><a href="http://mirrors.opensuse.org/list/all.html">All products (large table)</a></li>
@@ -70,4 +70,3 @@
   read <a href="http://en.opensuse.org/openSUSE:Mirror_infrastructure">the instructions on our wiki page</a> and send us 
   a mail or join us in our IRC channel <a href="irc://irc.opensuse.org/#opensuse-admin">#opensuse-admin</a> on irc.opensuse.org.
   </p>
-
